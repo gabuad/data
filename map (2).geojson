@@ -1,1 +1,133 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"TenTruong":"A","HocSinh":100,"GiaoVien":50},"geometry":{"type":"Point","coordinates":[105.77568054199219,21.062074760164435]}},{"type":"Feature","properties":{"TenTruong":"B","HocSinh":200,"GiaoVien":100},"geometry":{"type":"Point","coordinates":[105.86357116699219,20.981315625190998]}},{"type":"Feature","properties":{"TenTruong":"C","HocSinh":300,"GiaoVien":200},"geometry":{"type":"Point","coordinates":[105.88829040527344,21.05310368407269]}},{"type":"Feature","properties":{"TenTruong":"D","HocSinh":400,"GiaoVien":250},"geometry":{"type":"Point","coordinates":[105.7928466796875,21.010804188178703]}},{"type":"Feature","properties":{"TenTruong":"E","HocSinh":500,"GiaoVien":100},"geometry":{"type":"Point","coordinates":[105.67474365234374,21.018495898570784]}},{"type":"Feature","properties":{"TenTruong":"F","HocSinh":600,"GiaoVien":60},"geometry":{"type":"Point","coordinates":[105.76194763183594,20.95759233900627]}},{"type":"Feature","properties":{"TenTruong":"G","HocSinh":700,"GiaoVien":30},"geometry":{"type":"Point","coordinates":[105.8367919921875,20.936430557693942]}},{"type":"Feature","properties":{"TenTruong":"H","HocSinh":800,"GiaoVien":20},"geometry":{"type":"Point","coordinates":[105.82443237304688,21.102437906153835]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "TenTruong": "A",
+        "HocSinh": 100,
+        "GiaoVien": 50,
+        "TraiTuyen": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.77568054199219,
+          21.062074760164435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TenTruong": "B",
+        "HocSinh": 200,
+        "GiaoVien": 100,
+        "TraiTuyen": 53
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86357116699219,
+          20.981315625190998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TenTruong": "C",
+        "HocSinh": 300,
+        "GiaoVien": 200,
+        "TraiTuyen": 45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.88829040527344,
+          21.05310368407269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TenTruong": "D",
+        "HocSinh": 400,
+        "GiaoVien": 250,
+        "TraiTuyen": 34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7928466796875,
+          21.010804188178703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TenTruong": "E",
+        "HocSinh": 500,
+        "GiaoVien": 100,
+        "TraiTuyen": 300
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.67474365234374,
+          21.018495898570784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TenTruong": "F",
+        "HocSinh": 600,
+        "GiaoVien": 60,
+        "TraiTuyen": 350
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.76194763183594,
+          20.95759233900627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TenTruong": "G",
+        "HocSinh": 700,
+        "GiaoVien": 30,
+        "TraiTuyen": 239
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8367919921875,
+          20.936430557693942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "TenTruong": "H",
+        "HocSinh": 800,
+        "GiaoVien": 20,
+        "TraiTuyen": 540
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82443237304688,
+          21.102437906153835
+        ]
+      }
+    }
+  ]
+}
